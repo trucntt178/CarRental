@@ -9,8 +9,19 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## :fire: Demo:
+* Search page when the user is not logged in
+  * <img src="https://i.postimg.cc/Y0343LY7/Search-Page.png" width="50%"/>
 * Login page
-  * <img src="https://i.postimg.cc/T38LY9dK/Login-Student.png" width="30%"/>
+  * <img src="https://i.postimg.cc/432SzX3p/Login-Page.png" width="35%"/>
+* Create new account and verify the email address
+  * <img src="https://i.postimg.cc/ZKjF9Vnd/Create-Account.png" width="40%"/>
+  * <img src="https://i.postimg.cc/ydF07T2W/Verify-Mail.png" width="58%"/> <img src="https://i.postimg.cc/9QrTD2s6/Verify-Page.png" width="35%"/>
+* Search page when user successfully login
+  * <img src="https://i.postimg.cc/d3hv8WvV/Search-Page2.png" width="50%"/>
+* View Cart Page
+  * <img src="https://i.postimg.cc/3w3TLr76/ViewCart.png" width="50%"/>
+* History Page
+  * <img src="https://i.postimg.cc/xTH8hCDT/History-Page.png" width="50%"/>
   
 ## Connect me via
 1. [Facebook](https://www.facebook.com/truc178/)
